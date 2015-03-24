@@ -80,9 +80,10 @@ blockquote h1 {
 	line-height: 1.2em;
 }
 
-blockquote h4 {
+blockquote cite {
 	font-size: 1.75em;
 	padding-top: 22px;
+	display: block;
 }
 
 blockquote span{
